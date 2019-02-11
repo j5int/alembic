@@ -4,6 +4,16 @@ Changelog
 ==========
 
 .. changelog::
+    :version: 1.0.7+j5.1
+    :released: February 11, 2019
+
+    .. change::
+       :tags: feature, autogenerate, mssql
+
+       The autogenerate will now check for matching values for the mssql_include dialect options when
+       comparing indexes on Microsoft SQL Server.
+
+.. changelog::
     :version: 1.0.7
     :released: January 25, 2019
 
