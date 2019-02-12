@@ -4,7 +4,7 @@ Changelog
 ==========
 
 .. changelog::
-    :version: 1.0.7+j5.1
+    :version: 1.0.7+j5.2
     :released: February 11, 2019
 
     .. change::
